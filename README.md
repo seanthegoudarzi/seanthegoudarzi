@@ -2,7 +2,8 @@
 
 I'm a passionate mobile developer with years of experience developing iOS and Android apps (beware any Android fans, I prefer Apple 😛)
 
-You can find me on [StackOverflow](https://stackoverflow.com/users/7108375/sean-goudarzi), [Medium](https://medium.com/@seanthegoudarzi) or shoot me a message at [seanpgoudarzi@gmail.com](mailto:seanpgoudarzi@gmail.com).
+You can find me on [Medium](https://medium.com/@seanthegoudarzi) as well.
+Shoot me a message at [seanpgoudarzi@gmail.com](mailto:seanpgoudarzi@gmail.com).
 
 <!--
 **seanthegoudarzi/seanthegoudarzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
